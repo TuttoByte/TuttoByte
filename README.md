@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arseni Savinau</h1>
+<h1 align="center">Hi , I'm Arseni Savinau</h1>
 <h3 align="center">An adaptive developer</h3>
 
 <img src="https://community.aseprite.org/uploads/default/original/2X/b/b5a0cd011b642b629ce844a2c4935f7a9b72276f.gif" alt="Banner" width="100%" />
