@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arseni</h1>
+<h1 align="center">Hi 👋, I'm Arseni Savinau</h1>
 <h3 align="center">An adaptive developer</h3>
 
 - 🌱 I’m currently learning **Golang,**
