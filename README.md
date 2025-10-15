@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang,**
 
-- 💬 Ask me about **C++, Golang, C# and also Computer Science**
+- 💬 Ask me about **C++, Golang, C# and also Computer Science, Docker, Kubernetes**
 
 - 📫 How to reach me **arseniysavinov@icloud.com**
 
